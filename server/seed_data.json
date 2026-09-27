@@ -1,0 +1,1488 @@
+[
+  {
+    "id": "prod-apple-iphone15-128gb",
+    "title": "Apple iPhone 15 (128 GB) - Blue / Black / Natural Titanium",
+    "brand": "Apple",
+    "category": "Smartphones",
+    "image_url": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600&auto=format&fit=crop&q=80",
+    "specs": {
+      "Display": "6.1-inch Super Retina XDR OLED (2556 x 1179)",
+      "Processor": "A16 Bionic chip with 5-core GPU",
+      "Camera": "48MP Main + 12MP Ultra Wide with 2x Telephoto",
+      "Battery": "Up to 20 hours video playback",
+      "Storage": "128 GB",
+      "Port": "USB-C"
+    },
+    "key_features": [
+      "Dynamic Island brings notifications alive",
+      "48MP main camera with 2x Optical Zoom",
+      "Durable color-infused glass and aluminum design",
+      "Crash Detection safety feature"
+    ],
+    "listings": [
+      {
+        "id": "list-iphone15-amz",
+        "platform": "Amazon",
+        "price": 65990,
+        "original_price": 79900,
+        "currency": "₹",
+        "rating": 4.6,
+        "review_count": 18450,
+        "seller": "Appario Retail Private Ltd",
+        "in_stock": true,
+        "shipping": "Free Prime Delivery",
+        "url": "https://www.amazon.in/dp/B0CHX6869F",
+        "badge": "Lowest Price",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 72990
+          },
+          {
+            "date": "2026-08-17",
+            "price": 69990
+          },
+          {
+            "date": "2026-08-24",
+            "price": 68490
+          },
+          {
+            "date": "2026-08-31",
+            "price": 66990
+          },
+          {
+            "date": "2026-09-07",
+            "price": 65990
+          }
+        ]
+      },
+      {
+        "id": "list-iphone15-fk",
+        "platform": "Flipkart",
+        "price": 66999,
+        "original_price": 79900,
+        "currency": "₹",
+        "rating": 4.6,
+        "review_count": 24100,
+        "seller": "SuperComNet",
+        "in_stock": true,
+        "shipping": "Free Express Delivery",
+        "url": "https://www.flipkart.com/apple-iphone-15-blue-128-gb/p/itmbf14ef54f645d",
+        "badge": "Bank Offer Available",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 73900
+          },
+          {
+            "date": "2026-08-17",
+            "price": 70990
+          },
+          {
+            "date": "2026-08-24",
+            "price": 69490
+          },
+          {
+            "date": "2026-08-31",
+            "price": 67990
+          },
+          {
+            "date": "2026-09-07",
+            "price": 66999
+          }
+        ]
+      },
+      {
+        "id": "list-iphone15-tatacliq",
+        "platform": "Tata CLIQ",
+        "price": 67490,
+        "original_price": 79900,
+        "currency": "₹",
+        "rating": 4.7,
+        "review_count": 5200,
+        "seller": "Tata CLIQ Luxury Electronics",
+        "in_stock": true,
+        "shipping": "Free NeuPass Express Shipping",
+        "url": "https://www.tatacliq.com/apple-iphone-15-128gb-blue/p-mp00000001948",
+        "badge": "NeuPass Rewards 5%",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 74500
+          },
+          {
+            "date": "2026-08-17",
+            "price": 71500
+          },
+          {
+            "date": "2026-08-24",
+            "price": 69900
+          },
+          {
+            "date": "2026-08-31",
+            "price": 68490
+          },
+          {
+            "date": "2026-09-07",
+            "price": 67490
+          }
+        ]
+      },
+      {
+        "id": "list-iphone15-rel",
+        "platform": "Reliance Digital",
+        "price": 67900,
+        "original_price": 79900,
+        "currency": "₹",
+        "rating": 4.5,
+        "review_count": 3120,
+        "seller": "Reliance Retail Ltd",
+        "in_stock": true,
+        "shipping": "Same Day Pickup Available",
+        "url": "https://www.reliancedigital.in/apple-iphone-15-128-gb-blue/p/493839352",
+        "badge": "In-Store Pickup",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 74900
+          },
+          {
+            "date": "2026-08-17",
+            "price": 71900
+          },
+          {
+            "date": "2026-08-24",
+            "price": 69900
+          },
+          {
+            "date": "2026-08-31",
+            "price": 68900
+          },
+          {
+            "date": "2026-09-07",
+            "price": 67900
+          }
+        ]
+      },
+      {
+        "id": "list-iphone15-croma",
+        "platform": "Croma",
+        "price": 68490,
+        "original_price": 79900,
+        "currency": "₹",
+        "rating": 4.5,
+        "review_count": 1890,
+        "seller": "Infiniti Retail",
+        "in_stock": true,
+        "shipping": "Free Home Delivery",
+        "url": "https://www.croma.com/apple-iphone-15-128gb-blue/p/300738",
+        "badge": "Tata Neu Points",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 75900
+          },
+          {
+            "date": "2026-08-17",
+            "price": 72490
+          },
+          {
+            "date": "2026-08-24",
+            "price": 70490
+          },
+          {
+            "date": "2026-08-31",
+            "price": 69490
+          },
+          {
+            "date": "2026-09-07",
+            "price": 68490
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-samsung-s24-ultra",
+    "title": "Samsung Galaxy S24 Ultra 5G (12GB RAM, 256GB Storage) - Titanium Gray",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "image_url": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=600&auto=format&fit=crop&q=80",
+    "specs": {
+      "Display": "6.8-inch Dynamic AMOLED 2X 120Hz (3120 x 1440)",
+      "Processor": "Snapdragon 8 Gen 3 for Galaxy",
+      "Camera": "200MP Main + 50MP 5x Zoom + 10MP 3x Zoom + 12MP Ultra Wide",
+      "Battery": "5000 mAh with 45W Fast Charging",
+      "Storage": "256 GB / 12GB RAM",
+      "Stylus": "Integrated S Pen"
+    },
+    "key_features": [
+      "Galaxy AI (Circle to Search, Live Translate, Note Assist)",
+      "200MP Quad Tele Photo Camera with 100x Space Zoom",
+      "Titanium frame and Corning Gorilla Armor glass",
+      "7 years of OS & security updates"
+    ],
+    "listings": [
+      {
+        "id": "list-s24u-fk",
+        "platform": "Flipkart",
+        "price": 119999,
+        "original_price": 129999,
+        "currency": "₹",
+        "rating": 4.7,
+        "review_count": 9400,
+        "seller": "OmniTechRetail",
+        "in_stock": true,
+        "shipping": "Free Next-Day Delivery",
+        "url": "https://www.flipkart.com/samsung-galaxy-s24-ultra-titanium-gray-256-gb/p/itm...",
+        "badge": "Lowest Price",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 127999
+          },
+          {
+            "date": "2026-08-17",
+            "price": 124999
+          },
+          {
+            "date": "2026-08-24",
+            "price": 122999
+          },
+          {
+            "date": "2026-08-31",
+            "price": 120999
+          },
+          {
+            "date": "2026-09-07",
+            "price": 119999
+          }
+        ]
+      },
+      {
+        "id": "list-s24u-amz",
+        "platform": "Amazon",
+        "price": 121990,
+        "original_price": 129999,
+        "currency": "₹",
+        "rating": 4.6,
+        "review_count": 8150,
+        "seller": "Samsung India Official Store",
+        "in_stock": true,
+        "shipping": "Free One-Day Prime Shipping",
+        "url": "https://www.amazon.in/dp/B0CS5X6F12",
+        "badge": "Official Warranty",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 128990
+          },
+          {
+            "date": "2026-08-17",
+            "price": 125990
+          },
+          {
+            "date": "2026-08-24",
+            "price": 123990
+          },
+          {
+            "date": "2026-08-31",
+            "price": 122990
+          },
+          {
+            "date": "2026-09-07",
+            "price": 121990
+          }
+        ]
+      },
+      {
+        "id": "list-s24u-tatacliq",
+        "platform": "Tata CLIQ",
+        "price": 122490,
+        "original_price": 129999,
+        "currency": "₹",
+        "rating": 4.6,
+        "review_count": 2100,
+        "seller": "Tata CLIQ Digital",
+        "in_stock": true,
+        "shipping": "Free Express Delivery",
+        "url": "https://www.tatacliq.com/samsung-galaxy-s24-ultra-256gb/p-mp000000021",
+        "badge": "No Cost EMI",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 129490
+          },
+          {
+            "date": "2026-08-17",
+            "price": 126490
+          },
+          {
+            "date": "2026-08-24",
+            "price": 124490
+          },
+          {
+            "date": "2026-08-31",
+            "price": 123490
+          },
+          {
+            "date": "2026-09-07",
+            "price": 122490
+          }
+        ]
+      },
+      {
+        "id": "list-s24u-rel",
+        "platform": "Reliance Digital",
+        "price": 123900,
+        "original_price": 129999,
+        "currency": "₹",
+        "rating": 4.6,
+        "review_count": 1450,
+        "seller": "Reliance Retail Ltd",
+        "in_stock": true,
+        "shipping": "Free Standard Shipping",
+        "url": "https://www.reliancedigital.in/samsung-s24-ultra/p/493...",
+        "badge": "Exchange Bonus ₹8000",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 129999
+          },
+          {
+            "date": "2026-08-17",
+            "price": 126900
+          },
+          {
+            "date": "2026-08-24",
+            "price": 125900
+          },
+          {
+            "date": "2026-08-31",
+            "price": 124900
+          },
+          {
+            "date": "2026-09-07",
+            "price": 123900
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-sony-wh1000xm5",
+    "title": "Sony WH-1000XM5 Wireless Industry Leading Noise Canceling Headphones - Black",
+    "brand": "Sony",
+    "category": "Headphones",
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80",
+    "specs": {
+      "Noise Cancellation": "Auto NC Optimizer with 8 microphones & V1 Processor",
+      "Battery Life": "Up to 30 Hours (3 min charge = 3 hours playback)",
+      "Drivers": "30mm specially designed driver unit",
+      "Connectivity": "Bluetooth 5.2, Multipoint Connection",
+      "Weight": "250 grams"
+    },
+    "key_features": [
+      "Magnificent noise cancellation with two processors",
+      "Ultra-clear hands-free calling with 4 beamforming mics",
+      "Speak-to-Chat technology automatically pauses music",
+      "Intuitive touch sensor control"
+    ],
+    "listings": [
+      {
+        "id": "list-xm5-amz",
+        "platform": "Amazon",
+        "price": 26990,
+        "original_price": 34990,
+        "currency": "₹",
+        "rating": 4.5,
+        "review_count": 14200,
+        "seller": "Electronics Bazaar",
+        "in_stock": true,
+        "shipping": "Free Prime Delivery",
+        "url": "https://www.amazon.in/dp/B09XS7JWHH",
+        "badge": "Lowest Price",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 29990
+          },
+          {
+            "date": "2026-08-17",
+            "price": 28990
+          },
+          {
+            "date": "2026-08-24",
+            "price": 27990
+          },
+          {
+            "date": "2026-08-31",
+            "price": 27490
+          },
+          {
+            "date": "2026-09-07",
+            "price": 26990
+          }
+        ]
+      },
+      {
+        "id": "list-xm5-tatacliq",
+        "platform": "Tata CLIQ",
+        "price": 27490,
+        "original_price": 34990,
+        "currency": "₹",
+        "rating": 4.6,
+        "review_count": 1800,
+        "seller": "Tata CLIQ Audio Store",
+        "in_stock": true,
+        "shipping": "Free Delivery",
+        "url": "https://www.tatacliq.com/sony-wh-1000xm5-headphones/p-mp0000000451",
+        "badge": "NeuCoins Cashback",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 30490
+          },
+          {
+            "date": "2026-08-17",
+            "price": 29490
+          },
+          {
+            "date": "2026-08-24",
+            "price": 28490
+          },
+          {
+            "date": "2026-08-31",
+            "price": 27990
+          },
+          {
+            "date": "2026-09-07",
+            "price": 27490
+          }
+        ]
+      },
+      {
+        "id": "list-xm5-croma",
+        "platform": "Croma",
+        "price": 27990,
+        "original_price": 34990,
+        "currency": "₹",
+        "rating": 4.4,
+        "review_count": 2300,
+        "seller": "Infiniti Retail",
+        "in_stock": true,
+        "shipping": "Free Delivery",
+        "url": "https://www.croma.com/sony-wh-1000xm5-bluetooth-headphone/p/251341",
+        "badge": "Instant Card Cashback",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 31990
+          },
+          {
+            "date": "2026-08-17",
+            "price": 29990
+          },
+          {
+            "date": "2026-08-24",
+            "price": 28990
+          },
+          {
+            "date": "2026-08-31",
+            "price": 28490
+          },
+          {
+            "date": "2026-09-07",
+            "price": 27990
+          }
+        ]
+      },
+      {
+        "id": "list-xm5-fk",
+        "platform": "Flipkart",
+        "price": 28490,
+        "original_price": 34990,
+        "currency": "₹",
+        "rating": 4.5,
+        "review_count": 8900,
+        "seller": "SuperComNet",
+        "in_stock": true,
+        "shipping": "Standard Shipping ₹49",
+        "url": "https://www.flipkart.com/sony-wh-1000xm5-bluetooth-headset/p/itm...",
+        "badge": "Top Rated Audio",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 31490
+          },
+          {
+            "date": "2026-08-17",
+            "price": 30490
+          },
+          {
+            "date": "2026-08-24",
+            "price": 29490
+          },
+          {
+            "date": "2026-08-31",
+            "price": 28990
+          },
+          {
+            "date": "2026-09-07",
+            "price": 28490
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-apple-macbook-m3-air",
+    "title": "Apple MacBook Air 15.3-inch Laptop with M3 chip (8GB RAM, 256GB SSD) - Starlight",
+    "brand": "Apple",
+    "category": "Laptops",
+    "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&auto=format&fit=crop&q=80",
+    "specs": {
+      "Display": "15.3-inch Liquid Retina display with True Tone (500 nits)",
+      "Processor": "Apple M3 chip (8-core CPU, 10-core GPU)",
+      "Memory": "8GB Unified Memory",
+      "Storage": "256GB SSD Storage",
+      "Battery": "Up to 18 hours battery life",
+      "Weight": "1.51 kg"
+    },
+    "key_features": [
+      "Incredibly thin and fast design with aluminum enclosure",
+      "Support for up to two external displays",
+      "1080p FaceTime HD camera, three-mic array, six-speaker sound system",
+      "MagSafe charging port and two Thunderbolt / USB 4 ports"
+    ],
+    "listings": [
+      {
+        "id": "list-macairm3-amz",
+        "platform": "Amazon",
+        "price": 124900,
+        "original_price": 134900,
+        "currency": "₹",
+        "rating": 4.8,
+        "review_count": 3410,
+        "seller": "Appario Retail Private Ltd",
+        "in_stock": true,
+        "shipping": "Free Prime Delivery",
+        "url": "https://www.amazon.in/dp/B0CX254F2M",
+        "badge": "Lowest Price",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 131900
+          },
+          {
+            "date": "2026-08-17",
+            "price": 128900
+          },
+          {
+            "date": "2026-08-24",
+            "price": 126900
+          },
+          {
+            "date": "2026-08-31",
+            "price": 125900
+          },
+          {
+            "date": "2026-09-07",
+            "price": 124900
+          }
+        ]
+      },
+      {
+        "id": "list-macairm3-tatacliq",
+        "platform": "Tata CLIQ",
+        "price": 125900,
+        "original_price": 134900,
+        "currency": "₹",
+        "rating": 4.7,
+        "review_count": 1100,
+        "seller": "Tata CLIQ Electronics",
+        "in_stock": true,
+        "shipping": "Free Express Delivery",
+        "url": "https://www.tatacliq.com/apple-macbook-air-m3/p-mp0000000789",
+        "badge": "Corporate Discount",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 132900
+          },
+          {
+            "date": "2026-08-17",
+            "price": 129900
+          },
+          {
+            "date": "2026-08-24",
+            "price": 127900
+          },
+          {
+            "date": "2026-08-31",
+            "price": 126900
+          },
+          {
+            "date": "2026-09-07",
+            "price": 125900
+          }
+        ]
+      },
+      {
+        "id": "list-macairm3-rel",
+        "platform": "Reliance Digital",
+        "price": 126900,
+        "original_price": 134900,
+        "currency": "₹",
+        "rating": 4.7,
+        "review_count": 890,
+        "seller": "Reliance Retail Ltd",
+        "in_stock": true,
+        "shipping": "Free Home Delivery",
+        "url": "https://www.reliancedigital.in/apple-macbook-air-m3/p/...",
+        "badge": "HDFC Card ₹10,000 Off",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 133900
+          },
+          {
+            "date": "2026-08-17",
+            "price": 130900
+          },
+          {
+            "date": "2026-08-24",
+            "price": 128900
+          },
+          {
+            "date": "2026-08-31",
+            "price": 127900
+          },
+          {
+            "date": "2026-09-07",
+            "price": 126900
+          }
+        ]
+      },
+      {
+        "id": "list-macairm3-fk",
+        "platform": "Flipkart",
+        "price": 127490,
+        "original_price": 134900,
+        "currency": "₹",
+        "rating": 4.7,
+        "review_count": 4200,
+        "seller": "SuperComNet",
+        "in_stock": true,
+        "shipping": "Free Express Delivery",
+        "url": "https://www.flipkart.com/apple-2024-macbook-air-m3/p/itm...",
+        "badge": "No Cost EMI",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 134900
+          },
+          {
+            "date": "2026-08-17",
+            "price": 131490
+          },
+          {
+            "date": "2026-08-24",
+            "price": 129490
+          },
+          {
+            "date": "2026-08-31",
+            "price": 128490
+          },
+          {
+            "date": "2026-09-07",
+            "price": 127490
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-nike-air-jordan1",
+    "title": "Nike Air Jordan 1 Retro High OG Basketball Shoes - Chicago / Black Red",
+    "brand": "Nike",
+    "category": "Footwear",
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&auto=format&fit=crop&q=80",
+    "specs": {
+      "Upper Material": "Full-grain premium leather",
+      "Sole": "Solid rubber outsole with deep flex grooves",
+      "Cushioning": "Encapsulated Air-Sole unit in heel",
+      "Closure": "Lace-up high top profile",
+      "Gender": "Unisex"
+    },
+    "key_features": [
+      "Iconic high-top silhouette with Wings logo on collar",
+      "Perforated toe box for breathability",
+      "Timeless colorway loved by sneaker collectors worldwide",
+      "Padded collar for ankle support"
+    ],
+    "listings": [
+      {
+        "id": "list-aj1-meesho",
+        "platform": "Meesho",
+        "price": 12999,
+        "original_price": 16995,
+        "currency": "₹",
+        "rating": 4.4,
+        "review_count": 1450,
+        "seller": "SneakerHead India (Meesho Verified)",
+        "in_stock": true,
+        "shipping": "Free Meesho Express Shipping",
+        "url": "https://www.meesho.com/s/p/nike-air-jordan-1/289123",
+        "badge": "Lowest Price",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 15999
+          },
+          {
+            "date": "2026-08-17",
+            "price": 14999
+          },
+          {
+            "date": "2026-08-24",
+            "price": 13999
+          },
+          {
+            "date": "2026-08-31",
+            "price": 13499
+          },
+          {
+            "date": "2026-09-07",
+            "price": 12999
+          }
+        ]
+      },
+      {
+        "id": "list-aj1-ajio",
+        "platform": "Ajio",
+        "price": 13499,
+        "original_price": 16995,
+        "currency": "₹",
+        "rating": 4.7,
+        "review_count": 3800,
+        "seller": "Reliance Ajio Fashion",
+        "in_stock": true,
+        "shipping": "Free Delivery & Ajio Points",
+        "url": "https://www.ajio.com/nike-air-jordan-1-retro-high/p/46123984",
+        "badge": "Ajio Coupon ₹500 Off",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 16499
+          },
+          {
+            "date": "2026-08-17",
+            "price": 15499
+          },
+          {
+            "date": "2026-08-24",
+            "price": 14499
+          },
+          {
+            "date": "2026-08-31",
+            "price": 13999
+          },
+          {
+            "date": "2026-09-07",
+            "price": 13499
+          }
+        ]
+      },
+      {
+        "id": "list-aj1-myntra",
+        "platform": "Myntra",
+        "price": 13995,
+        "original_price": 16995,
+        "currency": "₹",
+        "rating": 4.8,
+        "review_count": 6200,
+        "seller": "Nike Official India",
+        "in_stock": true,
+        "shipping": "Free Delivery & 14 Day Returns",
+        "url": "https://www.myntra.com/casual-shoes/nike/nike-air-jordan-1-retro/2145890/",
+        "badge": "100% Authentic",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 16995
+          },
+          {
+            "date": "2026-08-17",
+            "price": 15495
+          },
+          {
+            "date": "2026-08-24",
+            "price": 14995
+          },
+          {
+            "date": "2026-08-31",
+            "price": 14495
+          },
+          {
+            "date": "2026-09-07",
+            "price": 13995
+          }
+        ]
+      },
+      {
+        "id": "list-aj1-fk",
+        "platform": "Flipkart",
+        "price": 14499,
+        "original_price": 16995,
+        "currency": "₹",
+        "rating": 4.7,
+        "review_count": 3100,
+        "seller": "Flashstar Commerce",
+        "in_stock": true,
+        "shipping": "Free Standard Delivery",
+        "url": "https://www.flipkart.com/nike-air-jordan-1-retro-high/p/itm...",
+        "badge": "Authentic Verified",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 16995
+          },
+          {
+            "date": "2026-08-17",
+            "price": 15999
+          },
+          {
+            "date": "2026-08-24",
+            "price": 15499
+          },
+          {
+            "date": "2026-08-31",
+            "price": 14999
+          },
+          {
+            "date": "2026-09-07",
+            "price": 14499
+          }
+        ]
+      },
+      {
+        "id": "list-aj1-amz",
+        "platform": "Amazon",
+        "price": 15200,
+        "original_price": 16995,
+        "currency": "₹",
+        "rating": 4.6,
+        "review_count": 1890,
+        "seller": "SoleSneaker Hub",
+        "in_stock": true,
+        "shipping": "Free Prime Shipping",
+        "url": "https://www.amazon.in/dp/B08N5L298K",
+        "badge": "Limited Stock",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 16995
+          },
+          {
+            "date": "2026-08-17",
+            "price": 16400
+          },
+          {
+            "date": "2026-08-24",
+            "price": 15900
+          },
+          {
+            "date": "2026-08-31",
+            "price": 15500
+          },
+          {
+            "date": "2026-09-07",
+            "price": 15200
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-zaveri-pearls-kundan-earrings",
+    "title": "Zaveri Pearls Gold Plated Kundan & Pearls Jhumka Earrings for Women",
+    "brand": "Zaveri Pearls",
+    "category": "Jewellery",
+    "image_url": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&auto=format&fit=crop&q=80",
+    "specs": {
+      "Material": "Brass & Alloy",
+      "Plating": "22k Gold Plated",
+      "Stone": "Kundan & Freshwater Pearls",
+      "Closure": "Push Back",
+      "Occasion": "Festive & Wedding"
+    },
+    "key_features": [
+      "Handcrafted Kundan jhumka traditional earrings",
+      "Lightweight and comfortable skin-friendly alloy",
+      "Premium pearl drops embellishment"
+    ],
+    "listings": [
+      {
+        "id": "list-earrings-meesho",
+        "platform": "Meesho",
+        "price": 349,
+        "original_price": 1499,
+        "currency": "₹",
+        "rating": 4.7,
+        "review_count": 3420,
+        "seller": "Zaveri Jewels Direct",
+        "in_stock": true,
+        "shipping": "Free Shipping",
+        "url": "https://www.meesho.com/search?q=zaveri+pearls+kundan+earrings",
+        "badge": "Lowest Price / Best Deal",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 499
+          },
+          {
+            "date": "2026-08-20",
+            "price": 399
+          },
+          {
+            "date": "2026-09-01",
+            "price": 349
+          }
+        ]
+      },
+      {
+        "id": "list-earrings-myntra",
+        "platform": "Myntra",
+        "price": 449,
+        "original_price": 1499,
+        "currency": "₹",
+        "rating": 4.6,
+        "review_count": 1820,
+        "seller": "Zaveri Pearls Official",
+        "in_stock": true,
+        "shipping": "Free Express Delivery",
+        "url": "https://www.myntra.com/earrings/zaveri-pearls",
+        "badge": "100% Authentic",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 549
+          },
+          {
+            "date": "2026-08-20",
+            "price": 499
+          },
+          {
+            "date": "2026-09-01",
+            "price": 449
+          }
+        ]
+      },
+      {
+        "id": "list-earrings-amz",
+        "platform": "Amazon",
+        "price": 499,
+        "original_price": 1499,
+        "currency": "₹",
+        "rating": 4.5,
+        "review_count": 5210,
+        "seller": "Zaveri Pearls Store",
+        "in_stock": true,
+        "shipping": "Free Prime Delivery",
+        "url": "https://www.amazon.in/s?k=zaveri+pearls+kundan+earrings",
+        "badge": "Verified Merchant",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 599
+          },
+          {
+            "date": "2026-08-20",
+            "price": 549
+          },
+          {
+            "date": "2026-09-01",
+            "price": 499
+          }
+        ]
+      },
+      {
+        "id": "list-earrings-fk",
+        "platform": "Flipkart",
+        "price": 529,
+        "original_price": 1499,
+        "currency": "₹",
+        "rating": 4.4,
+        "review_count": 2980,
+        "seller": "RetailNet",
+        "in_stock": true,
+        "shipping": "Free Delivery",
+        "url": "https://www.flipkart.com/search?q=zaveri+pearls+kundan+earrings",
+        "badge": "Bank Offer Available",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 649
+          },
+          {
+            "date": "2026-08-20",
+            "price": 579
+          },
+          {
+            "date": "2026-09-01",
+            "price": 529
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-fabindia-kanjeevaram-silk-saree",
+    "title": "FabIndia Kanjeevaram Pure Silk Saree with Rich Zari Woven Border",
+    "brand": "FabIndia",
+    "category": "Apparel & Fashion",
+    "image_url": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=600&auto=format&fit=crop&q=80",
+    "specs": {
+      "Fabric": "Pure Kanjeevaram Silk",
+      "Pattern": "Rich Zari Floral Weave",
+      "Blouse Piece": "Included (Unstitched)",
+      "Length": "6.3 Metres (with Blouse)",
+      "Care Instructions": "Dry Clean Only"
+    },
+    "key_features": [
+      "Handwoven traditional South Indian silk saree",
+      "Intricate golden zari border & pallu work",
+      "Includes matching unstitched blouse piece"
+    ],
+    "listings": [
+      {
+        "id": "list-saree-meesho",
+        "platform": "Meesho",
+        "price": 1299,
+        "original_price": 4999,
+        "currency": "₹",
+        "rating": 4.8,
+        "review_count": 4890,
+        "seller": "Weavers Direct Kanchipuram",
+        "in_stock": true,
+        "shipping": "Free Shipping",
+        "url": "https://www.meesho.com/search?q=kanjeevaram+silk+saree",
+        "badge": "Lowest Price / Best Deal",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 1699
+          },
+          {
+            "date": "2026-08-20",
+            "price": 1499
+          },
+          {
+            "date": "2026-09-01",
+            "price": 1299
+          }
+        ]
+      },
+      {
+        "id": "list-saree-myntra",
+        "platform": "Myntra",
+        "price": 1699,
+        "original_price": 4999,
+        "currency": "₹",
+        "rating": 4.7,
+        "review_count": 2150,
+        "seller": "FabIndia Official Store",
+        "in_stock": true,
+        "shipping": "Free Delivery",
+        "url": "https://www.myntra.com/sarees/fabindia",
+        "badge": "Authentic Silk Mark",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 1999
+          },
+          {
+            "date": "2026-08-20",
+            "price": 1849
+          },
+          {
+            "date": "2026-09-01",
+            "price": 1699
+          }
+        ]
+      },
+      {
+        "id": "list-saree-ajio",
+        "platform": "Ajio",
+        "price": 1799,
+        "original_price": 4999,
+        "currency": "₹",
+        "rating": 4.6,
+        "review_count": 1410,
+        "seller": "Reliance Trends Silk",
+        "in_stock": true,
+        "shipping": "Free Shipping",
+        "url": "https://www.ajio.com/search/?text=kanjeevaram+saree",
+        "badge": "Brand Cashback",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 2099
+          },
+          {
+            "date": "2026-08-20",
+            "price": 1949
+          },
+          {
+            "date": "2026-09-01",
+            "price": 1799
+          }
+        ]
+      },
+      {
+        "id": "list-saree-amz",
+        "platform": "Amazon",
+        "price": 1999,
+        "original_price": 4999,
+        "currency": "₹",
+        "rating": 4.5,
+        "review_count": 3100,
+        "seller": "FabIndia Retail",
+        "in_stock": true,
+        "shipping": "Free Prime Delivery",
+        "url": "https://www.amazon.in/s?k=kanjeevaram+silk+saree",
+        "badge": "Verified Merchant",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 2299
+          },
+          {
+            "date": "2026-08-20",
+            "price": 2149
+          },
+          {
+            "date": "2026-09-01",
+            "price": 1999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-bombay-dyeing-cotton-bedsheet",
+    "title": "Bombay Dyeing 100% Pure Cotton Floral Double Bedsheet with 2 Pillow Covers",
+    "brand": "Bombay Dyeing",
+    "category": "Bedding & Linens",
+    "image_url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=600&auto=format&fit=crop&q=80",
+    "specs": {
+      "Material": "100% Breathable Cotton",
+      "Thread Count": "210 TC",
+      "Size": "King Double (90 x 100 inches)",
+      "Includes": "1 Bedsheet + 2 Pillow Covers",
+      "Washing": "Machine Wash Warm"
+    },
+    "key_features": [
+      "Super soft 210 Thread Count pure cotton fabric",
+      "Fade-resistant reactive print technology",
+      "Fits double/king size mattresses comfortably"
+    ],
+    "listings": [
+      {
+        "id": "list-bedsheet-meesho",
+        "platform": "Meesho",
+        "price": 599,
+        "original_price": 1999,
+        "currency": "₹",
+        "rating": 4.7,
+        "review_count": 6120,
+        "seller": "Textile Hub Surat",
+        "in_stock": true,
+        "shipping": "Free Shipping",
+        "url": "https://www.meesho.com/search?q=cotton+double+bedsheet",
+        "badge": "Lowest Price / Best Deal",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 799
+          },
+          {
+            "date": "2026-08-20",
+            "price": 699
+          },
+          {
+            "date": "2026-09-01",
+            "price": 599
+          }
+        ]
+      },
+      {
+        "id": "list-bedsheet-fk",
+        "platform": "Flipkart",
+        "price": 799,
+        "original_price": 1999,
+        "currency": "₹",
+        "rating": 4.6,
+        "review_count": 4200,
+        "seller": "RetailNet Home",
+        "in_stock": true,
+        "shipping": "Free Delivery",
+        "url": "https://www.flipkart.com/search?q=bombay+dyeing+cotton+bedsheet",
+        "badge": "Bank Offer Available",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 999
+          },
+          {
+            "date": "2026-08-20",
+            "price": 899
+          },
+          {
+            "date": "2026-09-01",
+            "price": 799
+          }
+        ]
+      },
+      {
+        "id": "list-bedsheet-amz",
+        "platform": "Amazon",
+        "price": 899,
+        "original_price": 1999,
+        "currency": "₹",
+        "rating": 4.5,
+        "review_count": 5890,
+        "seller": "Bombay Dyeing Store",
+        "in_stock": true,
+        "shipping": "Free Prime Delivery",
+        "url": "https://www.amazon.in/s?k=bombay+dyeing+cotton+bedsheet",
+        "badge": "Verified Merchant",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 1099
+          },
+          {
+            "date": "2026-08-20",
+            "price": 999
+          },
+          {
+            "date": "2026-09-01",
+            "price": 899
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-milton-thermosteel-flask",
+    "title": "Milton Thermosteel Flip Lid Vacuum Insulated Stainless Steel Water Bottle (1000 ml)",
+    "brand": "Milton",
+    "category": "Kitchenware",
+    "image_url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=600&auto=format&fit=crop&q=80",
+    "specs": {
+      "Capacity": "1000 ml",
+      "Material": "18/8 Stainless Steel",
+      "Insulation": "Double Wall Vacuum Insulated",
+      "Heat/Cold Retention": "Hot for 24 Hours / Cold for 24 Hours",
+      "Leakproof": "Yes, Flip Lid Lock"
+    },
+    "key_features": [
+      "Double-walled vacuum insulation keeps liquids hot/cold for 24 hours",
+      "Food-grade rustproof 304 stainless steel inside & outside",
+      "Sturdy handle & leakproof flip mechanism"
+    ],
+    "listings": [
+      {
+        "id": "list-milton-amz",
+        "platform": "Amazon",
+        "price": 899,
+        "original_price": 1299,
+        "currency": "₹",
+        "rating": 4.6,
+        "review_count": 14200,
+        "seller": "Milton Official Retailer",
+        "in_stock": true,
+        "shipping": "Free Prime Delivery",
+        "url": "https://www.amazon.in/s?k=milton+thermosteel+1000ml",
+        "badge": "Lowest Price / Best Deal",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 1099
+          },
+          {
+            "date": "2026-08-20",
+            "price": 999
+          },
+          {
+            "date": "2026-09-01",
+            "price": 899
+          }
+        ]
+      },
+      {
+        "id": "list-milton-fk",
+        "platform": "Flipkart",
+        "price": 949,
+        "original_price": 1299,
+        "currency": "₹",
+        "rating": 4.5,
+        "review_count": 8900,
+        "seller": "SuperCom Kitchen",
+        "in_stock": true,
+        "shipping": "Free Express Delivery",
+        "url": "https://www.flipkart.com/search?q=milton+thermosteel+bottle",
+        "badge": "Top Rated",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 1149
+          },
+          {
+            "date": "2026-08-20",
+            "price": 1049
+          },
+          {
+            "date": "2026-09-01",
+            "price": 949
+          }
+        ]
+      },
+      {
+        "id": "list-milton-rel",
+        "platform": "Reliance Digital",
+        "price": 999,
+        "original_price": 1299,
+        "currency": "₹",
+        "rating": 4.4,
+        "review_count": 1200,
+        "seller": "Reliance Retail Ltd",
+        "in_stock": true,
+        "shipping": "Same Day Pickup",
+        "url": "https://www.reliancedigital.in/search?q=milton+thermosteel",
+        "badge": "Store Warranty",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 1199
+          },
+          {
+            "date": "2026-08-20",
+            "price": 1099
+          },
+          {
+            "date": "2026-09-01",
+            "price": 999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-nivea-body-lotion",
+    "title": "Nivea Nourishing Body Milk Body Lotion for Very Dry Skin with Deep Moisture Serum (400 ml)",
+    "brand": "Nivea",
+    "category": "Personal Care",
+    "image_url": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=600&auto=format&fit=crop&q=80",
+    "specs": {
+      "Volume": "400 ml",
+      "Skin Type": "Very Dry Skin",
+      "Key Ingredient": "Almond Oil & Deep Moisture Serum",
+      "Hydration": "Up to 48 Hours Moisture",
+      "Formulation": "Rich Milk Lotion"
+    },
+    "key_features": [
+      "Provides 48-hour deep moisturisation for dry skin",
+      "Enriched with 2x almond oil for intense nourishing care",
+      "Dermatologically approved skin compatibility"
+    ],
+    "listings": [
+      {
+        "id": "list-nivea-meesho",
+        "platform": "Meesho",
+        "price": 299,
+        "original_price": 499,
+        "currency": "₹",
+        "rating": 4.7,
+        "review_count": 3120,
+        "seller": "PersonalCare Mart",
+        "in_stock": true,
+        "shipping": "Free Shipping",
+        "url": "https://www.meesho.com/search?q=nivea+body+lotion",
+        "badge": "Lowest Price / Best Deal",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 399
+          },
+          {
+            "date": "2026-08-20",
+            "price": 349
+          },
+          {
+            "date": "2026-09-01",
+            "price": 299
+          }
+        ]
+      },
+      {
+        "id": "list-nivea-amz",
+        "platform": "Amazon",
+        "price": 349,
+        "original_price": 499,
+        "currency": "₹",
+        "rating": 4.6,
+        "review_count": 18200,
+        "seller": "Nivea Official Store",
+        "in_stock": true,
+        "shipping": "Free Prime Delivery",
+        "url": "https://www.amazon.in/s?k=nivea+body+lotion+400ml",
+        "badge": "Verified Merchant",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 429
+          },
+          {
+            "date": "2026-08-20",
+            "price": 389
+          },
+          {
+            "date": "2026-09-01",
+            "price": 349
+          }
+        ]
+      },
+      {
+        "id": "list-nivea-fk",
+        "platform": "Flipkart",
+        "price": 375,
+        "original_price": 499,
+        "currency": "₹",
+        "rating": 4.5,
+        "review_count": 12100,
+        "seller": "SuperCom Beauty",
+        "in_stock": true,
+        "shipping": "Free Delivery",
+        "url": "https://www.flipkart.com/search?q=nivea+body+lotion",
+        "badge": "Supercoins Eligible",
+        "price_history": [
+          {
+            "date": "2026-08-10",
+            "price": 449
+          },
+          {
+            "date": "2026-08-20",
+            "price": 409
+          },
+          {
+            "date": "2026-09-01",
+            "price": 375
+          }
+        ]
+      }
+    ]
+  }
+]

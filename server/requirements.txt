@@ -1,0 +1,9 @@
+flask>=3.0.0
+flask-cors>=4.0.0
+apscheduler>=3.10.0
+groq>=0.4.0
+numpy
+pyjwt>=2.8.0
+firebase-admin>=6.0.0
+sentence-transformers
+twilio>=8.0.0

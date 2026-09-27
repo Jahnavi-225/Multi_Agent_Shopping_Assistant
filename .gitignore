@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+!.env.example
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Build outputs
+dist/
+build/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+
